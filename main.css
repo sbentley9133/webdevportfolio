@@ -1,6 +1,3 @@
-*{
-  background-color: light-gray;
-}
 head{
   height: 200px;
 }
@@ -10,4 +7,7 @@ h1{
 img{
   height: 240px;
   position: center;
+}
+body{
+  background-color: gainsboro;
 }
