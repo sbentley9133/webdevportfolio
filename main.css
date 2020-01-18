@@ -8,6 +8,10 @@ img{
   height: 240px;
   position: center;
 }
+nav ul{
+  color: black;
+}
+}
 body{
   background-color: gainsboro;
 }
