@@ -1,0 +1,13 @@
+*{
+  background-color: light-gray;
+}
+head{
+  height: 200px;
+}
+h1{
+  color: maroon;
+}
+img{
+  height: 240px;
+  position: center;
+}
