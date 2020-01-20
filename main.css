@@ -51,3 +51,7 @@ ol{
 ol li{
   margin-right: 30px;
 }
+ol li a{
+  display: block;
+  width: 60px;
+}
