@@ -15,6 +15,7 @@ ul{
 }
 li{
   float: left;
+  padding-right: 18%;
 }
 li a{
   display: block;
