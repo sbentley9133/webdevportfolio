@@ -6,6 +6,9 @@ h1{
   color: maroon;
   font-size: 30px;
 }
+#sites{
+  float:none;
+}
 ul{
   list-style-type: none;
   margin: 0;
@@ -41,8 +44,4 @@ p{
 }
 footer{
   text-align: center;
-}
-#sites ul li !important{
-  background-color: maroon;
-  float: none;
 }
