@@ -43,7 +43,7 @@ ul{
       background-attachment: fixed;
       max-width: 800px;
       min-width: 400px;
-      margin: auto;
+      vertical-align: center;
   }
   .body{
       background-color: whitesmoke;
