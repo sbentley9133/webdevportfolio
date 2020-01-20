@@ -6,12 +6,12 @@ head{
 }
 h1{
     background-image: url("header.jpg");
-    color: white;
+    color: black;
     height: 100%;
     padding: 40px 10px;
     margin: 0px;
     text-align: center;
-    border: dotted white;
+    border: solid black;
 }
 ul{
     list-style-type: none;
