@@ -30,6 +30,7 @@ ul{
     padding: 20px 40px;
     background-color: gray;
     text-decoration: none;
+    width: 25%;
   }
   ul li a:hover{
     background-color: rgba(17, 0, 255, 0.158);
