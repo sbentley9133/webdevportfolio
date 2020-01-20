@@ -12,6 +12,9 @@ img{
 ul{
   list-style-type: none;
 }
+li{
+  display: inline;
+}
 li a{
   display: inline-block;
   width: 60px;
