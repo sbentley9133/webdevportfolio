@@ -43,5 +43,7 @@ ul{
       background-attachment: fixed;
   }
   .body{
-      background-color: whitesmoke
+      background-color: whitesmoke;
+      background-image: url(header.jpg)
+      padding: 40px;
   }
