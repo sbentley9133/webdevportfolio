@@ -11,9 +11,12 @@ img{
 ul{
   list-style-type: none;
 }
-nav ul li{
-  color: black;
-  font-family: helvetica;
+li a{
+  display: block;
+  width: 60px;
+}
+li a:hover{
+  color: white;
 }
 body{
   background-color: gainsboro;
