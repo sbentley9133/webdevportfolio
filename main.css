@@ -50,10 +50,10 @@ ol{
   margin: 0;
   padding: 0;
   width: 60px;
+  background-color: lightgray;
 }
 ol li{
   margin-right: 30px;
-  background-color: lightgray;
 }
 ol li a{
   display: block;
