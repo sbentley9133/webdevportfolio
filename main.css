@@ -53,7 +53,7 @@ ol{
 }
 ol li{
   margin-right: 30px;
-  background-color: rgb(73, 72, 72)
+  background-color: lightgray;
 }
 ol li a{
   display: block;
