@@ -4,6 +4,7 @@ head{
 }
 h1{
   color: maroon;
+  font-size: 30px;
 }
 ul{
   list-style-type: none;
