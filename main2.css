@@ -5,7 +5,7 @@ head{
     min-width: 400px;
 }
 h1{
-    background-color: darkslateblue;
+    background-image: url("header.jpg");
     color: white;
     height: 100%;
     padding: 40px 10px;
@@ -32,4 +32,7 @@ ul{
   }
   ul li a:hover{
     background-color: gray;
+  }
+  body{
+      back
   }
