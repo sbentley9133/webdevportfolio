@@ -42,7 +42,7 @@ p{
 footer{
   text-align: center;
 }
-#sites ul li{
+#sites ul li !important{
   background-color: maroon;
   float: none;
 }
