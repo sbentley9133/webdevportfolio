@@ -42,7 +42,7 @@ p{
 footer{
   text-align: center;
 }
-#sites ul{
+#sites ul li{
   background-color: maroon;
   list-style-type: decimal;
   list-style-position: inside;
