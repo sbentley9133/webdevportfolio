@@ -12,7 +12,7 @@ ul{
   list-style-type: none;
 }
 li a{
-  display: block;
+  display: inline-block;
   width: 60px;
 }
 li a:hover{
