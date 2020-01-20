@@ -47,9 +47,13 @@ table{
 }
 ol{
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
 }
 ol li{
   margin-right: 30px;
+  background-color: rgb(73, 72, 72)
 }
 ol li a{
   display: block;
