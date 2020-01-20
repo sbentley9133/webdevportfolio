@@ -6,7 +6,8 @@ h1{
   color: maroon;
   font-size: 30px;
 }
-#sites{
+#sites li{
+  padding-right: 20px;
   float:none;
 }
 ul{
