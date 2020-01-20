@@ -53,8 +53,9 @@ ol{
 }
 ol li{
   margin-right: 30px;
+  display: inline;
 }
 ol li a{
   color: rgb(73, 72, 72);
-  text-align: center;
+  text-align: center
 }
