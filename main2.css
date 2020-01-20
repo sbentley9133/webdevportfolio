@@ -8,6 +8,7 @@ head{
 h1{
     background-color: darkslateblue;
     color: white;
+    height: 300px;
 }
 ul{
     list-style-type: none;
