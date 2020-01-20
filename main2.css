@@ -33,9 +33,9 @@ ul{
     width: 25%;
   }
   ul li a:hover{
-    background-color: rgba(17, 0, 255, 0.158);
+    background-color: rgb(8, 3, 77);
     color: white;
   }
   body{
-      background-image: url(family.jpg)
+      background-image: url(header.jpg)
   }
