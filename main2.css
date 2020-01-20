@@ -42,3 +42,6 @@ ul{
       background-repeat: repeat-x;
       background-attachment: fixed;
   }
+  .body{
+      background-color: whitesmoke
+  }
