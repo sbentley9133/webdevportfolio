@@ -37,5 +37,8 @@ ul{
     color: white;
   }
   body{
+      background-color: darkslateblue;
       background-image: url(space.jpg);
+      background-repeat: repeat-x;
+      background-attachment: fixed;
   }
