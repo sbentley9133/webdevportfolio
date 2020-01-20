@@ -46,6 +46,8 @@ ul{
       background-color: whitesmoke;
       background-image: url(header.jpg);
       padding: 40px;
+      min-width: 400px;
+      width: 80%
   }
   p{
       font-family: Arial, Helvetica, sans-serif;
