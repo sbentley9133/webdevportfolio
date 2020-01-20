@@ -8,6 +8,9 @@ img{
   height: 240px;
   position: center;
 }
+ul{
+  list-style-type: none;
+}
 nav ul li{
   color: black;
   font-family: helvetica;
