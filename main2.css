@@ -3,6 +3,11 @@ head{
     height: 200px;
     width: 80%;
     min-width: 400px;
+    text-align: center;
+}
+h1{
+    background-color: darkslateblue;
+    color: white;
 }
 ul{
     list-style-type: none;
