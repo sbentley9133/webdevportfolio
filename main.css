@@ -42,7 +42,7 @@ p{
 footer{
   text-align: center;
 }
-.sites{
+#sites{
   background-color: maroon;
   list-style-type: decimal;
   margin: 10px;
