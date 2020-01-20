@@ -50,7 +50,7 @@ ol{
   margin: 0;
   padding: 0;
   width: 60px;
-  background-color: lightgray;
+  background-color: rgba(211, 211, 211, 0.596);
 }
 ol li{
   margin-right: 30px;
