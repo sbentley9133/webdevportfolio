@@ -21,6 +21,7 @@ li a:hover{
 }
 body{
   background-color: gainsboro;
+  text-align: center;
 }
 p{
   font-family: Arial;
