@@ -9,6 +9,7 @@ h1{
     background-color: darkslateblue;
     color: white;
     height: 100%;
+    padding: 20px 10px;
 }
 ul{
     list-style-type: none;
