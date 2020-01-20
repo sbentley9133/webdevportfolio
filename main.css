@@ -48,3 +48,6 @@ table{
 ol{
   list-style-type: none;
 }
+ol li{
+  padding-right: 40px;
+}
