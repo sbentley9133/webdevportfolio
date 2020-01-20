@@ -43,6 +43,7 @@ ul{
       background-attachment: fixed;
       max-width: 800px;
       min-width: 400px;
+      display:table-cell;
       vertical-align: center;
   }
   .body{
@@ -56,4 +57,11 @@ ul{
   }
   image{
       width: 240px;
+    }
+    html, body{
+        height: 100%;
+    }
+    html{
+        display: table;
+        margin: auto;
     }
