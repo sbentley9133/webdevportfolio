@@ -22,6 +22,7 @@ ul{
   }
   ul li{
     float: left;
+    width: 25%;
   }
   ul li a{
     display: block;
