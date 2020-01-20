@@ -15,7 +15,6 @@ ul{
 }
 li{
   float: left;
-  padding-right: 14%;
 }
 li a{
   display: block;
@@ -25,7 +24,7 @@ li a{
   text-decoration: none;
 }
 li a:hover{
-  background-color: #111;
+  background-color: maroon;
 }
 img{
   height: 240px;
