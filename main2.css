@@ -44,6 +44,6 @@ ul{
   }
   .body{
       background-color: whitesmoke;
-      background-image: url(header.jpg)
+      background-image: url(header.jpg);
       padding: 40px;
   }
