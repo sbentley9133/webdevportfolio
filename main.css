@@ -45,3 +45,6 @@ footer{
 table{
   position: center;
 }
+ol{
+  list-style-type: none;
+}
