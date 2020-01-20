@@ -25,14 +25,16 @@ ul{
   }
   ul li a{
     display: block;
-    color: darkslateblue;
+    color: black;
     text-align: center;
-    padding: 20px 60px;
+    padding: 20px 40px;
+    background-color: gray;
     text-decoration: none;
   }
   ul li a:hover{
-    background-color: gray;
+    background-color: rgba(17, 0, 255, 0.158);
+    color: white;
   }
   body{
-      back
+      background-image: url(family.jpg)
   }
